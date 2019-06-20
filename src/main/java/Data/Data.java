@@ -9,6 +9,7 @@ import java.util.regex.Pattern;
 
 // Работа с датами
 
+
 public class Data {
     public static void main(String[] args) {
         printDate("21.4.2014 15:56:45");
